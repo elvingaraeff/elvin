@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/elvingaraeff/elvin/issues"
   },
-  "homepage": "https://github.com/elvingaraeff/elvin#readme"
+  "homepage": "https://github.com/elvingaraeff/elvin#readme",
+  "dependencies": {
+    "elvin": "^1.0.1"
+  }
 }
