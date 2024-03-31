@@ -1,0 +1,22 @@
+{
+  "name": "elvin",
+  "version": "1.0.0",
+  "description": "For Elvin's Birthday",
+  "main": "index.js",
+  "scripts": {
+    "test": "elvin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvingaraeff/elvin.git"
+  },
+  "keywords": [
+    "elvin"
+  ],
+  "author": "Elvin Garayev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elvingaraeff/elvin/issues"
+  },
+  "homepage": "https://github.com/elvingaraeff/elvin#readme"
+}
