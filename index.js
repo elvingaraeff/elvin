@@ -1,4 +1,8 @@
 module.exports = () => {
+  console.log("\x1b[32m%s\x1b[0m", "                                                                   ");
+  console.log("\x1b[32m%s\x1b[0m", "                                                                   ");
+  console.log("\x1b[32m%s\x1b[0m", "                                                                   ");
+  console.log("\x1b[32m%s\x1b[0m", "                                                                   ");
   console.log("\x1b[32m%s\x1b[0m", "               █████  ███████ ███    ███  █████  ██████            ");
   console.log("\x1b[32m%s\x1b[0m", "              ██   ██ ██      ████  ████ ██   ██ ██   ██           ");
   console.log("\x1b[32m%s\x1b[0m", "              ███████ ███████ ██ ████ ██ ███████ ██████            ");
@@ -22,9 +26,8 @@ module.exports = () => {
   console.log("\x1b[32m%s\x1b[0m", "                                                                   ");
   console.log("\x1b[32m%s\x1b[0m", "                                                                   ");
   console.log("\x1b[32m%s\x1b[0m", "                                                                   ");
+  console.log("\x1b[32m%s\x1b[0m", "                              Təbriklər!                           ");
   console.log("\x1b[36m%s\x1b[0m", "                      Ən xoş arzu və diləklərlə!                   ");
-  console.log("\x1b[33m%s\x1b[0m", "                      Ən xoş arzu və diləklərlə!                   ");
-  console.log("\x1b[35m%s\x1b[0m", "                      Ən xoş arzu və diləklərlə!                   ");
   console.log("\x1b[32m%s\x1b[0m", "                                                                   ");
   console.log("\x1b[32m%s\x1b[0m", "                                                                   ");
   console.log("\x1b[32m%s\x1b[0m", "                                                                   ");
